@@ -1,0 +1,51 @@
+{
+    "carousel": [
+        "carousel1",
+        "carousel2",
+        "carousel3"
+    ],
+    "items": [
+        {
+            "toc": "",
+            "content": "ELECTRONIC PRODUCT",
+            "child": null
+        },
+        {
+            "toc": "",
+            "content": "SHOPPING PRODUCT MATERIAL",
+            "child": null
+        },
+        {
+            "toc": "",
+            "content": "FOOTWEAR PRODUCT",
+            "child": [
+                {
+                    "toc": "PRODUCTS",
+                    "content": "In marketing, a product is an object, or system, or service made available for consumer use as of the consumer demand;",
+                    "child": null
+                },
+                {
+                    "toc": "DEVELOPMENT TECHONOLOGY ",
+                    "content": "Technological change (TC) or technological development is the overall process of invention, innovation and diffusion of technology or processes.",
+                    "child": [
+                        {
+                            "toc": "",
+                            "content": "technological change was illustrated with the 'Linear Model of Innovation', which has now been largely discarded to be replaced with a model of technological.",
+                            "child": null
+                        },
+                        {
+                            "toc": "",
+                            "content": "",
+                            "child": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "toc": "",
+            "content": "JEWELLERY PRODUCT",
+            "child": null
+        }
+    ]
+}
